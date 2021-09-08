@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Teja. Passiaonate in the workings of science, humanity, computing, evolution and space. 
+- 👋 Hi, I’m Teja. Passionate in the workings of science, computing, healthcare, humanity, evolution and space. 
 - 🌱 A graduate student at Georgia Tech Mastering Computational Data Science and Business Analytics
 - 📫 @shanmukha.iit@gmail.com
 - 📂 https://www.linkedin.com/in/shanmukhateja/
